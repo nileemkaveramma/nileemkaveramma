@@ -11,7 +11,7 @@ I am an MSc Data Science student presently doing an internship at Codesoft. Imme
 
 ## Skills and Expertise
 
-- **Programming Languages**: Proficient in SQL,R, Python, EDA, SQL, Machine Learning, HTML, Java
+- **Programming Languages**: Proficient in SQL, R, Python, EDA, SQL, Machine Learning, HTML, Java
 - **Data Visualization Tools**: Experienced with Power BI
 - **Analytical Prowess**: Applying mathematical concepts to solve real-world problems
 
