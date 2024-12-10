@@ -5,7 +5,7 @@
 
 ## About Me
 
-I am an MSc Data Science student presently doing an internship at Bharat Intern. Immersing myself in the fascinating world of data has equipped me with strong analytical skills and a deep understanding of how to uncover valuable insights from intricate datasets. I am also passionate about data visualization techniques that bring data stories to life, making complex information accessible and understandable. Additionally, I am driven by the challenge of solving real-world problems through innovative data-driven solutions.
+I am an MSc Data Science student at Christ University, Bengaluru. Immersing myself in the fascinating world of data has equipped me with strong analytical skills and a deep understanding of how to uncover valuable insights from intricate datasets. I am also passionate about data visualization techniques that bring data stories to life, making complex information accessible and understandable. Additionally, I am driven by the challenge of solving real-world problems through innovative data-driven solutions.
 
 
 
